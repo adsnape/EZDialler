@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EZDial</string>
+    <string name="setup_title">Choose Contacts</string>
+    <string name="edit_contacts">Edit contacts</string>
+    <string name="search_hint">Search contacts…</string>
+    <string name="contact_photo">Contact photo</string>
+    <string name="empty_slot_name">Add Contact</string>
+    <string name="tap_to_add">Tap to add</string>
+    <string name="pick_contact_for_slot">Pick contact for slot %1$d</string>
+    <string name="contact_saved">%1$s added to slot %2$d</string>
+    <string name="call_permission_denied">Phone permission needed to call</string>
+    <string name="contacts_permission_denied">Contacts permission is required to display contacts</string>
+    <string name="cd_phone_icon">Phone call available</string>
+    <string name="cd_whatsapp_icon">WhatsApp video call</string>
+    <string name="call_via_phone">Call via Phone</string>
+    <string name="call_via_whatsapp">Call via WhatsApp</string>
+    <string name="change_contact">Change contact</string>
+    <string name="remove_contact">Remove contact</string>
+    <string name="how_to_call">How should EZDial reach %1$s?</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed on this device</string>
+    <string name="whatsapp_needs_mobile">WhatsApp requires a mobile number for this contact</string>
+    <string name="whatsapp_video_call_fallback">Opening WhatsApp chat — tap the video icon to call</string>
+</resources>

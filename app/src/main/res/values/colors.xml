@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_primary">#0F1117</color>
+    <color name="card_bg">#1C1F2A</color>
+    <color name="card_stroke">#2A2E3D</color>
+    <color name="divider">#23263A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F2FF</color>
+    <color name="text_secondary">#8B8FA8</color>
+
+    <!-- Accent (electric indigo) -->
+    <color name="accent">#6C63FF</color>
+    <color name="accent_dark">#4E46D0</color>
+
+    <!-- Avatar background colours (cycled by slot index) -->
+    <color name="avatar_0">#6C63FF</color>
+    <color name="avatar_1">#FF6584</color>
+    <color name="avatar_2">#43C59E</color>
+    <color name="avatar_3">#FF9F43</color>
+    <color name="avatar_4">#5BC8FF</color>
+    <color name="avatar_5">#A855F7</color>
+    <color name="avatar_text">#FFFFFF</color>
+
+    <!-- WhatsApp -->
+    <color name="whatsapp_green">#25D366</color>
+
+    <!-- Status -->
+    <color name="error_red">#FF5A5F</color>
+
+    <!-- System / status bar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

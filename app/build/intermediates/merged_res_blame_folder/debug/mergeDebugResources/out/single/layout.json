@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.quickdial.app-mergeDebugResources-36:/layout/item_contact_card.xml",
+        "source": "com.quickdial.app-main-39:/layout/item_contact_card.xml"
+    },
+    {
+        "merged": "com.quickdial.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.quickdial.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.quickdial.app-mergeDebugResources-36:/layout/bottom_sheet_contact_options.xml",
+        "source": "com.quickdial.app-main-39:/layout/bottom_sheet_contact_options.xml"
+    },
+    {
+        "merged": "com.quickdial.app-mergeDebugResources-36:/layout/activity_setup.xml",
+        "source": "com.quickdial.app-main-39:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "com.quickdial.app-mergeDebugResources-36:/layout/item_contact_picker.xml",
+        "source": "com.quickdial.app-main-39:/layout/item_contact_picker.xml"
+    }
+]
