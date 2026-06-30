@@ -1,4 +1,4 @@
-# QuickDial 📞
+# EZDialler 📞
 
 A clean, deploy-ready Android app that shows **6 large contact buttons** on
 a single screen. One tap calls the contact immediately. Long-press (or the ✏️
