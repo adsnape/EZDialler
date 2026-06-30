@@ -45,14 +45,6 @@ cd QuickDial
 ./gradlew assembleRelease       # unsigned release APK → app/build/outputs/apk/release/
 ```
 
-### Sign for Play Store
-
-1. **Build → Generate Signed Bundle / APK** in Android Studio  
-2. Create or use an existing keystore  
-3. Choose **Android App Bundle (.aab)** for Play Store upload  
-
----
-
 ## Project Structure
 
 ```
