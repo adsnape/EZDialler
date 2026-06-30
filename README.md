@@ -1,7 +1,8 @@
 # EZDialler 📞
 
 A clean, deploy-ready Android app that shows **6 large contact buttons** on
-a single screen. One tap calls the contact immediately. Long-press (or the ✏️
+a single screen. One tap on the icons to the right 
+calls the contact immediately. Long-press (or the ✏️
 button) swaps a contact for another.
 
 ---
@@ -10,7 +11,7 @@ button) swaps a contact for another.
 
 | Feature | Detail |
 |---|---|
-| 6 large call buttons | 2 × 3 grid, full-screen |
+| 6 large call buttons | 1 × 6 grid, full-screen |
 | Contact photos | Loaded from device contacts via Glide |
 | Initials avatar | Coloured fallback when no photo |
 | Searchable picker | Tap/long-press to choose a contact per slot |
@@ -98,3 +99,6 @@ QuickDial/
 | `CALL_PHONE` | Place calls directly without opening the dialler |
 
 Both are requested at runtime with clear rationale dialogs.
+
+## Issues
+1. The images disappear after a whatsApp call
