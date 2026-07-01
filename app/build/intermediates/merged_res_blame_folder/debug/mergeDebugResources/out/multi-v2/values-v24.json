@@ -4,17 +4,7 @@
             "outputFile": "com.quickdial.app-mergeDebugResources-35:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\andrew.snape\\.gradle\\caches\\8.14.5\\transforms\\99fe3348d4d8e25127da7332ae3284aa\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\andrew.snape\\.gradle\\caches\\8.14.5\\transforms\\7f10a537b47b9c51e96ebe65a44fcd37\\transformed\\material-1.11.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\andrew.snape\\.gradle\\caches\\8.14.5\\transforms\\9d41d62da8c287ae97be5b25e80a4800\\transformed\\material-1.11.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -30,6 +20,16 @@
                         "endLines": "4,5,6,7,10,13,16,19",
                         "endColumns": "84,98,86,100,10,10,10,10",
                         "endOffsets": "427,526,613,714,913,1126,1327,1542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\andrew.snape\\.gradle\\caches\\8.14.5\\transforms\\de784584f90094924d49dcc8e39643f4\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

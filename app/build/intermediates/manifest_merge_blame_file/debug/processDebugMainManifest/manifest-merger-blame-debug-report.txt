@@ -10,149 +10,149 @@
 10
 11    <!-- Required to read contacts -->
 12    <uses-permission android:name="android.permission.READ_CONTACTS" />
-12-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:5:5-72
-12-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:5:22-69
+12-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:5:5-72
+12-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:5:22-69
 13    <!-- Required to initiate phone calls -->
 14    <uses-permission android:name="android.permission.CALL_PHONE" />
-14-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:7:5-69
-14-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:7:22-66
+14-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:7:5-69
+14-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:7:22-66
 15
 16    <!--
 17         Android 11+ (API 30+) package visibility: required to detect
 18         whether WhatsApp is installed and to launch it directly.
 19    -->
 20    <queries>
-20-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:11:5-13:15
+20-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:11:5-13:15
 21        <package android:name="com.whatsapp" />
-21-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:12:9-48
-21-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:12:18-45
+21-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:12:9-48
+21-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:12:18-45
 22    </queries>
 23
 24    <permission
-24-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+24-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 25        android:name="com.quickdial.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-25-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+25-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 26        android:protectionLevel="signature" />
-26-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+26-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 27
 28    <uses-permission android:name="com.quickdial.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-28-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
-28-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+28-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 29
 30    <application
-30-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:15:5-40:19
+30-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:15:5-40:19
 31        android:allowBackup="true"
-31-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:16:9-35
+31-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:16:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-32-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+32-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\f9d5a0446d0d5e955ab485d7c2f3c536\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:icon="@mipmap/ic_launcher"
-35-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:17:9-43
+35-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:17:9-43
 36        android:label="@string/app_name"
-36-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:19:9-41
+36-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:19:9-41
 37        android:roundIcon="@mipmap/ic_launcher_round"
-37-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:18:9-54
+37-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:18:9-54
 38        android:supportsRtl="true"
-38-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:20:9-35
+38-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:20:9-35
 39        android:testOnly="true"
 40        android:theme="@style/Theme.QuickDial" >
-40-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:21:9-47
+40-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:21:9-47
 41
 42        <!-- Main launcher activity -->
 43        <activity
-43-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:24:9-32:20
+43-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:24:9-32:20
 44            android:name="com.quickdial.app.MainActivity"
-44-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:25:13-41
+44-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:25:13-41
 45            android:exported="true"
-45-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:26:13-36
+45-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:26:13-36
 46            android:windowSoftInputMode="stateHidden" >
-46-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:27:13-54
+46-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:27:13-54
 47            <intent-filter>
-47-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:28:13-31:29
+47-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:28:13-31:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:29:17-69
-48-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:29:25-66
+48-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:29:17-69
+48-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:29:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:30:17-77
-50-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:30:27-74
+50-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:30:17-77
+50-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:30:27-74
 51            </intent-filter>
 52        </activity>
 53
 54        <!-- Contact picker / setup activity -->
 55        <activity
-55-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:35:9-38:51
+55-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:35:9-38:51
 56            android:name="com.quickdial.app.SetupActivity"
-56-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:36:13-42
+56-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:36:13-42
 57            android:exported="false"
-57-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:37:13-37
+57-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:37:13-37
 58            android:label="@string/setup_title" />
-58-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:38:13-48
+58-->C:\Users\andrew.snape\Documents\Andstud\EZDialler\app\src\main\AndroidManifest.xml:38:13-48
 59
 60        <provider
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 61            android:name="androidx.startup.InitializationProvider"
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 62            android:authorities="com.quickdial.app.androidx-startup"
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 63            android:exported="false" >
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 64            <meta-data
-64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 66                android:value="androidx.startup" />
-66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\0d9cd2f11b98951e21cf78f18442e4d1\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 67            <meta-data
-67-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\d826b2fc4fc7da7e5e79620c814c5e07\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+67-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\44dc292f53e64165e33fb6b3ef09644d\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
 68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-68-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\d826b2fc4fc7da7e5e79620c814c5e07\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+68-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\44dc292f53e64165e33fb6b3ef09644d\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
 69                android:value="androidx.startup" />
-69-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\d826b2fc4fc7da7e5e79620c814c5e07\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+69-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\44dc292f53e64165e33fb6b3ef09644d\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
 70            <meta-data
-70-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 71                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
 72                android:value="androidx.startup" />
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
 73        </provider>
 74
 75        <receiver
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
 76            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 77            android:directBootAware="false"
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
 78            android:enabled="true"
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
 79            android:exported="true"
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
 80            android:permission="android.permission.DUMP" >
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 81            <intent-filter>
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 82                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 83            </intent-filter>
 84            <intent-filter>
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 85                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 86            </intent-filter>
 87            <intent-filter>
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 88                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 89            </intent-filter>
 90            <intent-filter>
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 91                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\6423bd013e5c9a5b74c8b9abc8156105\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e99ac7a48f93390886e20a84d8cfb668\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
 92            </intent-filter>
 93        </receiver>
 94    </application>
