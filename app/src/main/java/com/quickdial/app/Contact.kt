@@ -6,6 +6,7 @@ enum class CallMode { PHONE, WHATSAPP }
 
 data class Contact(
     val id: Long,
+    val lookupKey: String,
     val name: String,
     val phone: String,
     val mobilePhone: String? = null,
