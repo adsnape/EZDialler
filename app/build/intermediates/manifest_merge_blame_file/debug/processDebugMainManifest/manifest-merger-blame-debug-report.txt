@@ -10,22 +10,22 @@
 10
 11    <!-- Required to read contacts -->
 12    <uses-permission android:name="android.permission.READ_CONTACTS" />
-12-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:5:5-72
-12-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:5:22-69
+12-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:5:5-72
+12-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:5:22-69
 13    <!-- Required to initiate phone calls -->
 14    <uses-permission android:name="android.permission.CALL_PHONE" />
-14-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:7:5-69
-14-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:7:22-66
+14-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:7:5-69
+14-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:7:22-66
 15
 16    <!--
 17         Android 11+ (API 30+) package visibility: required to detect
 18         whether WhatsApp is installed and to launch it directly.
 19    -->
 20    <queries>
-20-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:11:5-13:15
+20-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:11:5-13:15
 21        <package android:name="com.whatsapp" />
-21-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:12:9-48
-21-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:12:18-45
+21-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:12:9-48
+21-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:12:18-45
 22    </queries>
 23
 24    <permission
@@ -40,55 +40,55 @@
 28-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 29
 30    <application
-30-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:15:5-40:19
+30-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:15:5-40:19
 31        android:allowBackup="true"
-31-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:16:9-35
+31-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:16:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.12.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\1d8aac3fb63eb45314d2a8ff8fb21a14\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:icon="@mipmap/ic_launcher"
-35-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:17:9-43
+35-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:17:9-43
 36        android:label="@string/app_name"
-36-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:19:9-41
+36-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:19:9-41
 37        android:roundIcon="@mipmap/ic_launcher_round"
-37-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:18:9-54
+37-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:18:9-54
 38        android:supportsRtl="true"
-38-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:20:9-35
+38-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:20:9-35
 39        android:testOnly="true"
 40        android:theme="@style/Theme.QuickDial" >
-40-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:21:9-47
+40-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:21:9-47
 41
 42        <!-- Main launcher activity -->
 43        <activity
-43-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:24:9-32:20
+43-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:24:9-32:20
 44            android:name="com.quickdial.app.MainActivity"
-44-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:25:13-41
+44-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:25:13-41
 45            android:exported="true"
-45-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:26:13-36
+45-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:26:13-36
 46            android:windowSoftInputMode="stateHidden" >
-46-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:27:13-54
+46-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:27:13-54
 47            <intent-filter>
-47-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:28:13-31:29
+47-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:28:13-31:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:29:17-69
-48-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:29:25-66
+48-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:29:17-69
+48-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:29:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:30:17-77
-50-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:30:27-74
+50-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:30:17-77
+50-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:30:27-74
 51            </intent-filter>
 52        </activity>
 53
 54        <!-- Contact picker / setup activity -->
 55        <activity
-55-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:35:9-38:51
+55-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:35:9-38:51
 56            android:name="com.quickdial.app.SetupActivity"
-56-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:36:13-42
+56-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:36:13-42
 57            android:exported="false"
-57-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:37:13-37
+57-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:37:13-37
 58            android:label="@string/setup_title" />
-58-->C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\AndroidManifest.xml:38:13-48
+58-->C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\AndroidManifest.xml:38:13-48
 59
 60        <provider
 60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\86f6247318baa26da9aeb82b56b5b073\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

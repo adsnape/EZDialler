@@ -15,11 +15,12 @@
     <color name="card_stroke">#2A2E3D</color>
     <color name="divider">#23263A</color>
     <color name="error_red">#FF5A5F</color>
+    <color name="ic_launcher_background">#ED8812</color>
     <color name="text_primary">#F0F2FF</color>
     <color name="text_secondary">#8B8FA8</color>
     <color name="whatsapp_green">#25D366</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">QuickDial</string>
+    <string name="app_name">EZDial</string>
     <string name="call_permission_denied">Phone permission needed to call</string>
     <string name="call_via_phone">Call via Phone</string>
     <string name="call_via_whatsapp">Call via WhatsApp</string>
@@ -31,7 +32,7 @@
     <string name="contacts_permission_denied">Contacts permission is required to display contacts</string>
     <string name="edit_contacts">Edit contacts</string>
     <string name="empty_slot_name">Add Contact</string>
-    <string name="how_to_call">How should QuickDial reach %1$s?</string>
+    <string name="how_to_call">How should EZDial reach %1$s?</string>
     <string name="pick_contact_for_slot">Pick contact for slot %1$d</string>
     <string name="remove_contact">Remove contact</string>
     <string name="search_hint">Search contacts…</string>

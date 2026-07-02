@@ -15,6 +15,7 @@ color card_bg
 color card_stroke
 color divider
 color error_red
+color ic_launcher_background
 color text_primary
 color text_secondary
 color whatsapp_green
@@ -24,7 +25,6 @@ drawable bg_drag_handle
 drawable bg_mode_option
 drawable ic_call
 drawable ic_edit
-drawable ic_launcher_foreground
 drawable ic_remove
 drawable ic_whatsapp
 id btnCallPhone
@@ -56,6 +56,7 @@ layout bottom_sheet_contact_options
 layout item_contact_card
 layout item_contact_picker
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 string call_permission_denied

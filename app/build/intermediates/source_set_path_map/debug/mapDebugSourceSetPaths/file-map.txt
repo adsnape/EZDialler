@@ -31,10 +31,10 @@ com.quickdial.app-coordinatorlayout-1.1.0-29 C:\Users\andrew.snape\.gradle\cache
 com.quickdial.app-recyclerview-1.1.0-30 C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\e22687259b91ac5f3e984f9ee21cc5bf\transformed\recyclerview-1.1.0\res
 com.quickdial.app-lifecycle-viewmodel-2.7.0-31 C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\ef96fbd94b589f85b284c09923525003\transformed\lifecycle-viewmodel-2.7.0\res
 com.quickdial.app-emoji2-views-helper-1.2.0-32 C:\Users\andrew.snape\.gradle\caches\8.14.5\transforms\ffbbab235ee3ca462da3e7087bb6ad88\transformed\emoji2-views-helper-1.2.0\res
-com.quickdial.app-pngs-33 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\build\generated\res\pngs\debug
-com.quickdial.app-resValues-34 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\build\generated\res\resValues\debug
-com.quickdial.app-packageDebugResources-35 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.quickdial.app-packageDebugResources-36 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.quickdial.app-debug-37 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.quickdial.app-debug-38 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\debug\res
-com.quickdial.app-main-39 C:\Users\andrew.snape\Documents\Andstud\QuickDialV6\QuickDialV6\app\src\main\res
+com.quickdial.app-pngs-33 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\build\generated\res\pngs\debug
+com.quickdial.app-resValues-34 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\build\generated\res\resValues\debug
+com.quickdial.app-packageDebugResources-35 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.quickdial.app-packageDebugResources-36 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.quickdial.app-debug-37 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.quickdial.app-debug-38 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\debug\res
+com.quickdial.app-main-39 C:\Users\andrew.snape\Documents\Andstud\EZDial\app\src\main\res
