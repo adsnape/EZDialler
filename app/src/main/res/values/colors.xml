@@ -11,16 +11,16 @@
     <color name="text_secondary">#8B8FA8</color>
 
     <!-- Accent (electric indigo) -->
-    <color name="accent">#6C63FF</color>
-    <color name="accent_dark">#4E46D0</color>
+    <color name="accent">#FF9800</color>
+    <color name="accent_dark">#FF5722</color>
 
     <!-- Avatar background colours (cycled by slot index) -->
-    <color name="avatar_0">#6C63FF</color>
-    <color name="avatar_1">#FF6584</color>
+    <color name="avatar_0">#C78420</color>
+    <color name="avatar_1">#BA7F29</color>
     <color name="avatar_2">#43C59E</color>
     <color name="avatar_3">#FF9F43</color>
     <color name="avatar_4">#5BC8FF</color>
-    <color name="avatar_5">#A855F7</color>
+    <color name="avatar_5">#4CAF50</color>
     <color name="avatar_text">#FFFFFF</color>
 
     <!-- WhatsApp -->
